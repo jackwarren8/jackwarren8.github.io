@@ -4,6 +4,36 @@ body {
 	font-family: Helvetica;
 }
 
+p {
+font-size: 16;
+}
+
+h1 {
+font-size: 50;
+}
+
+h2 {
+font-size: 35;
+}
+
+h3 {
+font-size: 25;
+}
+
 a {
 	color: AF7C7C;
+}
+
+.bold {
+	font-weight: 1000;
+}
+
+.cmd {
+	border: 3px;
+	border-style: solid; 
+	border-color: FAFAFA;
+	padding:1em;
+}
+.center {
+	text-align: center;
 }
