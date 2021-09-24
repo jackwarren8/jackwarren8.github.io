@@ -1,6 +1,6 @@
 body {
-	background-color: 1A1A1A;
-	color: FAFAFA;
+	background-color: #1A1A1A;
+	color: #ffffff;
 	font-family: Helvetica;
 }
 
@@ -21,7 +21,7 @@ font-size: 25;
 }
 
 a {
-	color: AF7C7C;
+	color: #AF7C7C;
 }
 
 .bold {
@@ -36,4 +36,27 @@ a {
 }
 .center {
 	text-align: center;
+}
+
+.title {
+	background-color: #dedede;  
+	color: #0f0f0f;
+	padding: 1%;
+	width: 100%;
+	align-items: center;	
+}
+
+.navbar {
+	background-color: #efefef;
+	color: #ffffff;
+	text-decoration: none;
+	text-align: center;
+	font-size: 20pt;
+	width: 100%;
+}
+
+.navbar a {
+
+	text-decoration: none;
+
 }
